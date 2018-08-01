@@ -1,7 +1,7 @@
 # lesson14
 Closed Key Encryption
 
-#### You do not have to do this as a stand alone app.  See Enhancements below.
+#### You do not have to do this as a stand alone app.  See Enhancements below.  Either use the provided wordproccessor app or your enhanced lesson13
 
 ### Enhancements
 
