@@ -1,7 +1,7 @@
 # lesson14
 Closed Key Encryption
 
-#### Complete the lesson at [https://projects.raspberrypi.org/en/projects/secret-agent-chat](https://projects.raspberrypi.org/en/projects/secret-agent-chat) you do not have to do this as a stand alone app.  See Enhancements below.  Either use the provided wordproccessor app or your enhanced lesson13
+#### Complete the lesson at [https://projects.raspberrypi.org/en/projects/secret-agent-chat](https://projects.raspberrypi.org/en/projects/secret-agent-chat). You do not have to do this as a stand alone app.  See Enhancements below.  Either use the provided wordproccessor app or your enhanced lesson13
 
 ### Enhancements
 
